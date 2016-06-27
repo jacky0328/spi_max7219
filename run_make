@@ -1,0 +1,1 @@
+/usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-gcc -static max7219_test.c -o max7219_test
